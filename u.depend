@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1663798904 source:c:\users\norat\onedrive\desktop\fwd\u\main.c
+	<stdio.h>
+	<stdlib.h>
+	"card.h"
+	"terminal.h"
+
+1663799665 source:c:\users\norat\onedrive\desktop\fwd\u\card.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"card.h"
+
+1663799475 c:\users\norat\onedrive\desktop\fwd\u\card.h
+
+1663859844 c:\users\norat\onedrive\desktop\fwd\u\terminal.h
+	"card.h"
+
+1663799447 source:c:\users\norat\onedrive\desktop\fwd\u\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"terminal.h"
+
